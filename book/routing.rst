@@ -10,7 +10,7 @@ of something like ``/read/intro-to-symfony``.
 
 Having flexibility is even more important. What if you need to change the
 URL of a page from ``/blog`` to ``/news``? How many links should you need to
-hunt down and update to make the change? If you're using Symfony's router,
+hunt down and update to make the change? If you're using Symfony's routaer,
 the change is simple.
 
 The Symfony router lets you define creative URLs that you map to different
